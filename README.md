@@ -7,6 +7,7 @@ Practicing leedcode question daily
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devyanis1255/leetcode_practice/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/devyanis1255/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devyanis1255/leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 ## Binary Search
 |  |
@@ -36,4 +37,8 @@ Practicing leedcode question daily
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devyanis1255/leetcode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/devyanis1255/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
