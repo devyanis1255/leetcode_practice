@@ -15,6 +15,7 @@ Practicing leedcode question daily
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devyanis1255/leetcode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@ Practicing leedcode question daily
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 ## Hash Table
 |  |
