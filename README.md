@@ -60,18 +60,21 @@ Practicing leedcode question daily
 | [0094-binary-tree-inorder-traversal](https://github.com/devyanis1255/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/devyanis1255/leetcode_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devyanis1255/leetcode_practice/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/devyanis1255/leetcode_practice/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devyanis1255/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/devyanis1255/leetcode_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devyanis1255/leetcode_practice/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/devyanis1255/leetcode_practice/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devyanis1255/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/devyanis1255/leetcode_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devyanis1255/leetcode_practice/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/devyanis1255/leetcode_practice/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
