@@ -10,6 +10,7 @@ Practicing leedcode question daily
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devyanis1255/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devyanis1255/leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/devyanis1255/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/devyanis1255/leetcode_practice/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,8 +44,13 @@ Practicing leedcode question daily
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devyanis1255/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/devyanis1255/leetcode_practice/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/devyanis1255/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devyanis1255/leetcode_practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
