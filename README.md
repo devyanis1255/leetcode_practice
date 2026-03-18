@@ -23,6 +23,7 @@ Practicing leedcode question daily
 | [0020-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devyanis1255/leetcode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
+| [0761-special-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/0761-special-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Practicing leedcode question daily
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devyanis1255/leetcode_practice/tree/master/0075-sort-colors) |
+| [0761-special-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/0761-special-binary-string) |
 ## Tree
 |  |
 | ------- |
@@ -86,4 +88,8 @@ Practicing leedcode question daily
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/devyanis1255/leetcode_practice/tree/master/1929-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
