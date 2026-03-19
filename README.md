@@ -30,6 +30,7 @@ Practicing leedcode question daily
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyanis1255/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/devyanis1255/leetcode_practice/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -102,4 +103,13 @@ Practicing leedcode question daily
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/devyanis1255/leetcode_practice/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/devyanis1255/leetcode_practice/tree/master/0509-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/devyanis1255/leetcode_practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/devyanis1255/leetcode_practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
