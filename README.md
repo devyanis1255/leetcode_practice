@@ -26,6 +26,7 @@ Practicing leedcode question daily
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devyanis1255/leetcode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0761-special-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/0761-special-binary-string) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3856-trim-trailing-vowels](https://github.com/devyanis1255/leetcode_practice/tree/master/3856-trim-trailing-vowels) |
 ## Dynamic Programming
 |  |
@@ -92,6 +93,7 @@ Practicing leedcode question daily
 | ------- |
 | [0100-same-tree](https://github.com/devyanis1255/leetcode_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devyanis1255/leetcode_practice/tree/master/0101-symmetric-tree) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Practicing leedcode question daily
 | ------- |
 | [0509-fibonacci-number](https://github.com/devyanis1255/leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/devyanis1255/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/devyanis1255/leetcode_practice/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
 |  |
@@ -129,4 +132,12 @@ Practicing leedcode question daily
 |  |
 | ------- |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/devyanis1255/leetcode_practice/tree/master/3858-minimum-bitwise-or-from-grid) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
