@@ -25,6 +25,7 @@ Practicing leedcode question daily
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devyanis1255/leetcode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0761-special-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/0761-special-binary-string) |
+| [3856-trim-trailing-vowels](https://github.com/devyanis1255/leetcode_practice/tree/master/3856-trim-trailing-vowels) |
 ## Dynamic Programming
 |  |
 | ------- |
