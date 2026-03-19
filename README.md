@@ -112,4 +112,8 @@ Practicing leedcode question daily
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/devyanis1255/leetcode_practice/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/devyanis1255/leetcode_practice/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
