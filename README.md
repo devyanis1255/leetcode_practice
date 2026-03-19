@@ -15,6 +15,7 @@ Practicing leetcode question daily👍👍
 | [1470-shuffle-the-array](https://github.com/devyanis1255/leetcode_practice/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/devyanis1255/leetcode_practice/tree/master/1929-concatenation-of-array) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/devyanis1255/leetcode_practice/tree/master/3858-minimum-bitwise-or-from-grid) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/devyanis1255/leetcode_practice/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,10 +49,12 @@ Practicing leetcode question daily👍👍
 | [0001-two-sum](https://github.com/devyanis1255/leetcode_practice/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devyanis1255/leetcode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/devyanis1255/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/devyanis1255/leetcode_practice/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devyanis1255/leetcode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/devyanis1255/leetcode_practice/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,4 +143,8 @@ Practicing leetcode question daily👍👍
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Counting
+|  |
+| ------- |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/devyanis1255/leetcode_practice/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 <!---LeetCode Topics End-->
