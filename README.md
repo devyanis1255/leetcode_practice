@@ -11,6 +11,7 @@ Practicing leedcode question daily
 | [0033-search-in-rotated-sorted-array](https://github.com/devyanis1255/leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/devyanis1255/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devyanis1255/leetcode_practice/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devyanis1255/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1470-shuffle-the-array](https://github.com/devyanis1255/leetcode_practice/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/devyanis1255/leetcode_practice/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -28,6 +29,7 @@ Practicing leedcode question daily
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devyanis1255/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
