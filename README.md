@@ -14,6 +14,7 @@ Practicing leedcode question daily
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyanis1255/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1470-shuffle-the-array](https://github.com/devyanis1255/leetcode_practice/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/devyanis1255/leetcode_practice/tree/master/1929-concatenation-of-array) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/devyanis1255/leetcode_practice/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Practicing leedcode question daily
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/devyanis1255/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/devyanis1255/leetcode_practice/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -120,4 +122,9 @@ Practicing leedcode question daily
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/devyanis1255/leetcode_practice/tree/master/0693-binary-number-with-alternating-bits) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/devyanis1255/leetcode_practice/tree/master/3858-minimum-bitwise-or-from-grid) |
+## Greedy
+|  |
+| ------- |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/devyanis1255/leetcode_practice/tree/master/3858-minimum-bitwise-or-from-grid) |
 <!---LeetCode Topics End-->
