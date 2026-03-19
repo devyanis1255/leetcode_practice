@@ -94,4 +94,12 @@ Practicing leedcode question daily
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/0761-special-binary-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/devyanis1255/leetcode_practice/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/devyanis1255/leetcode_practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
