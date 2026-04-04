@@ -11,6 +11,7 @@ Practicing leetcode question daily👍👍
 | [0014-longest-common-prefix](https://github.com/devyanis1255/leetcode_practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devyanis1255/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devyanis1255/leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/devyanis1255/leetcode_practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/devyanis1255/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devyanis1255/leetcode_practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyanis1255/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -41,6 +42,7 @@ Practicing leetcode question daily👍👍
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devyanis1255/leetcode_practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/devyanis1255/leetcode_practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyanis1255/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/devyanis1255/leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/devyanis1255/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
@@ -114,6 +116,7 @@ Practicing leetcode question daily👍👍
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devyanis1255/leetcode_practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/devyanis1255/leetcode_practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0761-special-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/0761-special-binary-string) |
 ## Linked List
 | Problem Name | Difficulty |
