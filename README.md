@@ -15,6 +15,7 @@ Practicing leetcode question daily👍👍
 | [0073-set-matrix-zeroes](https://github.com/devyanis1255/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devyanis1255/leetcode_practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyanis1255/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/devyanis1255/leetcode_practice/tree/main/0283-move-zeroes/) | Easy |
 | [1470-shuffle-the-array](https://github.com/devyanis1255/leetcode_practice/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/devyanis1255/leetcode_practice/tree/master/1929-concatenation-of-array) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/devyanis1255/leetcode_practice/tree/master/3858-minimum-bitwise-or-from-grid) |
@@ -71,6 +72,7 @@ Practicing leetcode question daily👍👍
 | [0005-longest-palindromic-substring](https://github.com/devyanis1255/leetcode_practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devyanis1255/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/devyanis1255/leetcode_practice/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/devyanis1255/leetcode_practice/tree/main/0283-move-zeroes/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
