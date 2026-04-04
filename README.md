@@ -6,7 +6,7 @@ Practicing leetcode question daily👍👍
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0001-two-sum](https://github.com/devyanis1255/leetcode_practice/tree/master/0001-two-sum) |
+| [0001-two-sum](https://github.com/devyanis1255/leetcode_practice/tree/master/0001-two-sum) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/devyanis1255/leetcode_practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/devyanis1255/leetcode_practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devyanis1255/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
