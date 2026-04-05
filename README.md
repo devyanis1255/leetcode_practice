@@ -35,6 +35,7 @@ Practicing leetcode question daily👍👍
 | [0020-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devyanis1255/leetcode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/devyanis1255/leetcode_practice/tree/main/0242-valid-anagram/) | Easy |
 | [0761-special-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/0761-special-binary-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3856-trim-trailing-vowels](https://github.com/devyanis1255/leetcode_practice/tree/master/3856-trim-trailing-vowels) |
@@ -60,6 +61,7 @@ Practicing leetcode question daily👍👍
 | [0001-two-sum](https://github.com/devyanis1255/leetcode_practice/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devyanis1255/leetcode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/devyanis1255/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/devyanis1255/leetcode_practice/tree/main/0242-valid-anagram/) | Easy |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/devyanis1255/leetcode_practice/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -82,6 +84,7 @@ Practicing leetcode question daily👍👍
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/devyanis1255/leetcode_practice/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/devyanis1255/leetcode_practice/tree/main/0242-valid-anagram/) | Easy |
 | [0761-special-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/0761-special-binary-string) |
 ## Tree
 | Problem Name | Difficulty |
