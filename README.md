@@ -11,6 +11,7 @@ Practicing leetcode question daily👍👍
 | [0014-longest-common-prefix](https://github.com/devyanis1255/leetcode_practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devyanis1255/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devyanis1255/leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/devyanis1255/leetcode_practice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/devyanis1255/leetcode_practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/devyanis1255/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devyanis1255/leetcode_practice/tree/master/0075-sort-colors) |
@@ -36,6 +37,7 @@ Practicing leetcode question daily👍👍
 | [0020-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devyanis1255/leetcode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/devyanis1255/leetcode_practice/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/devyanis1255/leetcode_practice/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/devyanis1255/leetcode_practice/tree/main/0242-valid-anagram/) | Easy |
 | [0761-special-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/0761-special-binary-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -62,6 +64,7 @@ Practicing leetcode question daily👍👍
 | [0001-two-sum](https://github.com/devyanis1255/leetcode_practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devyanis1255/leetcode_practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devyanis1255/leetcode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/devyanis1255/leetcode_practice/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/devyanis1255/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/devyanis1255/leetcode_practice/tree/main/0242-valid-anagram/) | Easy |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/devyanis1255/leetcode_practice/tree/master/3859-count-subarrays-with-k-distinct-integers) |
@@ -86,6 +89,7 @@ Practicing leetcode question daily👍👍
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/devyanis1255/leetcode_practice/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/devyanis1255/leetcode_practice/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/devyanis1255/leetcode_practice/tree/main/0242-valid-anagram/) | Easy |
 | [0761-special-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/0761-special-binary-string) |
