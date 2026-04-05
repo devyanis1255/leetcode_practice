@@ -28,6 +28,7 @@ Practicing leetcode question daily👍👍
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devyanis1255/leetcode_practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/devyanis1255/leetcode_practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/devyanis1255/leetcode_practice/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/devyanis1255/leetcode_practice/tree/main/0008-string-to-integer-atoi/) | Medium |
@@ -59,6 +60,7 @@ Practicing leetcode question daily👍👍
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/devyanis1255/leetcode_practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devyanis1255/leetcode_practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devyanis1255/leetcode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/devyanis1255/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/devyanis1255/leetcode_practice/tree/main/0242-valid-anagram/) | Easy |
@@ -66,6 +68,7 @@ Practicing leetcode question daily👍👍
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devyanis1255/leetcode_practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devyanis1255/leetcode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/devyanis1255/leetcode_practice/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Two Pointers
