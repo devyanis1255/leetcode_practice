@@ -135,11 +135,13 @@ Practicing leetcode question daily👍👍
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/devyanis1255/leetcode_practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/devyanis1255/leetcode_practice/tree/master/0206-reverse-linked-list) |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/devyanis1255/leetcode_practice/tree/main/0010-regular-expression-matching/) | Hard |
+| [0021-merge-two-sorted-lists](https://github.com/devyanis1255/leetcode_practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/devyanis1255/leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/devyanis1255/leetcode_practice/tree/master/0509-fibonacci-number) |
 ## Math
