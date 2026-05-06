@@ -147,6 +147,7 @@ Practicing leetcode question daily👍👍
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/devyanis1255/leetcode_practice/tree/main/0007-reverse-integer/) | Medium |
 | [0509-fibonacci-number](https://github.com/devyanis1255/leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/devyanis1255/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/devyanis1255/leetcode_practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
